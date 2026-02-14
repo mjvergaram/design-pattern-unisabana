@@ -1,0 +1,14 @@
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/builder/Builder.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/builder/AutomobileBuilder.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/EngineType.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/builder/VehicleBuilderValidator.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/application/Demo.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/builder/Director.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/builder/BatMobileBuilder.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/Color.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/product/Automobile.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/WeaponSystem.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/InteriorType.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/RinType.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/product/BatMobile.java
+/Users/trunks/Desarrollo/workspace_idea/patternshomework/src/main/java/com/patterns/automovil/model/SoundSystemType.java

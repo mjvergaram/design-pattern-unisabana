@@ -1,0 +1,10 @@
+com/patterns/automovil/model/RinType.class
+com/patterns/automovil/builder/VehicleBuilderValidator.class
+com/patterns/automovil/builder/Director.class
+com/patterns/automovil/model/EngineType.class
+com/patterns/automovil/builder/AutomobileBuilder.class
+com/patterns/automovil/builder/Builder.class
+com/patterns/automovil/product/Automobile.class
+com/patterns/automovil/model/Color.class
+com/patterns/automovil/model/InteriorType.class
+com/patterns/automovil/model/SoundSystemType.class
