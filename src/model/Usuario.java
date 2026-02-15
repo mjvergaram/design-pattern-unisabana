@@ -1,7 +1,6 @@
-package user;
+package model;
 
 import mediator.ChatMediator;
-import message.Mensaje;
 
 import java.util.*;
 

@@ -1,8 +1,8 @@
 import mediator.*;
-import user.Usuario;
+import model.Usuario;
 
 public class Main {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         ChatMediator sala1 = new ChatSala();
         ChatMediator sala2 = new ChatSala();
 

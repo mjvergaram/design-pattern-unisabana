@@ -1,7 +1,7 @@
 package mediator;
 
-import message.Mensaje;
-import user.Usuario;
+import model.Mensaje;
+import model.Usuario;
 
 public interface ChatMediator {
     void registrar(Usuario usuario);
